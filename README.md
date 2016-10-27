@@ -1,2 +1,2 @@
 # Fun-With-Computer-Vision
-Interesting codes about computational vision
+Some simple but interesting codes about computational vision
