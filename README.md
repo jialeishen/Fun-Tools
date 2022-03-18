@@ -1,2 +1,4 @@
-# Fun-With-Computer-Vision
-Some simple but interesting codes about computational vision
+# Fun-Tools
+Some simple yet fun tools
+ - Coloring Puzzle Bot
+ - Web Traffic Bot
