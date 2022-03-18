@@ -1,6 +1,6 @@
 %Paint secret garden with Matlab
 %author:Jialei Shen
-%e-mail:shenjialei1992@163.com
+%e-mail:jshen20@syr.edu
 %latest:2016.07.31
 
 clear
