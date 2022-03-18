@@ -1,3 +1,8 @@
+# A bot increasing the pageview/traffic of your website for SEO
+# Author: Jialei Shen
+# Email: jshen20@syr.edu
+# Latest: 03/18/2022
+
 import webbrowser
 import time
 import os
